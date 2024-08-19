@@ -1,6 +1,5 @@
 # Terraform
 Terraform real-life scenarios and notes.
- # Terraform Zero to Hero course
 
 ## 1: Getting Started with Terraform
 
